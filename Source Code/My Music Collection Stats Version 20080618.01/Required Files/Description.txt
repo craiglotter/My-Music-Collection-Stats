@@ -1,0 +1,17 @@
+My Music Collection Stats
+
+My Music Collection Stats is a private application to provide me with certain stats on my personal music collection. All music is contained in a base folder, with each folder in the base folder representing each artist in the collection. Should that artist's folder already be sorted, it is marked by adding "(Sorted)" after the artist/band's name. Each artist's folder contains their various album releases separated into folders, with each folder named using the album name and prefixed by the year of release (in brackets).
+
+Each folder contains all the album MP3s in track listing order, as well as the folder front page art.
+
+As the application loads up, it asks you to input the base folder location, and once it processes your inputted folder, provides you with the stats regarding your collection.
+
+Created by Craig Lotter, June 2008
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2008
+Implements concepts such as File manipulation
+Level of Complexity: Very Simple

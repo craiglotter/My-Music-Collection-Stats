@@ -1,0 +1,14 @@
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\bin\Release\My Music Collection Stats.exe
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\bin\Release\My Music Collection Stats.pdb
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\bin\Release\My Music Collection Stats.xml
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\ResolveAssemblyReference.cache
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.AboutBox1.resources
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.Display_Message.resources
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.HelpBox1.resources
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.Main_Screen.resources
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.Resources.resources
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My Music Collection Stats.vbproj.GenerateResource.Cache
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My Music Collection Stats.exe
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My Music Collection Stats.xml
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My Music Collection Stats.pdb
+C:\Work Projects\Completed Projects\My Music Collection Stats - 18 June 2008\Source Code\My Music Collection Stats\obj\Release\My_Music_Collection_Stats.UnsortedArtists_Dialog.resources

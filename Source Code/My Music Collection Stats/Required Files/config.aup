@@ -1,0 +1,3 @@
+APPLICATION_NAME=My Music Collection Stats
+EXECUTABLE=My Music Collection Stats.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/My Music Collection Stats/manifest.xml
